@@ -1,2 +1,2 @@
-# smithpcp-4080C-001
+# smithpcp-IT4080C-001
 Network Game Design Repository 
